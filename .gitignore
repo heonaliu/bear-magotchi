@@ -1,0 +1,7 @@
+
+.history/
+*-bak
+*.bak
+
+*.lck
+*.log
