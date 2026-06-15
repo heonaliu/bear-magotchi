@@ -25,3 +25,9 @@ Switches: [BZCN TSC016A04518A](https://www.lcsc.com/product-detail/C2888493.html
 - After placing pieces, I learned about how to edit individual footprints when there were mismatches. I also learned how to reroute the connection between pieces. Placing vias allowed me to move between the front and back copper. 
 - Then after everything is successfully rerouted, I ran DRC checker and worked my way to fix the DRC errors. After finally getting 0 errors, I exported gerber files and .STEP file to which I imported into OnShape. 
 
+# Credits:
+- This follows the tutorial by [TaniWankenobi](https://github.com/TaniWanKenobi)
+- Case tutorial (for reference) by [Pcb Cupid](https://www.youtube.com/watch?v=7FC-pByCCXM) on YouTube
+
+# BOM:
+ 
