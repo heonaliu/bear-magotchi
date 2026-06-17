@@ -6,3 +6,4 @@
 *.lck
 *.log
 *-backups/
+.DS_Store
