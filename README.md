@@ -15,6 +15,7 @@ Buzzer: [XHXDZ 1207-P6.5MM](https://www.lcsc.com/product-detail/C49246964.html)
 Switches: [BZCN TSC016A04518A](https://www.lcsc.com/product-detail/C2888493.html)
 0.96" Oled Screen: [HS HS96L03W2C03](https://www.lcsc.com/product-detail/C5248080.html)
 
+[Onshape Link](https://cad.onshape.com/documents/021afe4b63c8b0b9c93cc183/w/f948377fc55dfd0736b0e217/e/5203c0fddfe92074836b1ae6?renderMode=0&uiState=6a3327ec9c87a1f6b1d3d4b6)
 
 ## Why I Made This Project
 - I made this project because I am relatively new to hardware and thought this would be a good project to get some experience working with. This is also my first time using KiCad and working with the interface. First hardware project so everything was pretty much a learning process. It took many trial and errors like learning how to solve DRC errors, rerouting, and being very confused at some points.
