@@ -81,10 +81,37 @@ Switches: [BZCN TSC016A04518A](https://www.lcsc.com/product-detail/C2888493.html
 | **Place top cover aligned with the holes** | **Put in the M3 Screws & fasten with hex nuts** |
 | <img src="Images/Assembly/Step3.png"> | <img src="Images/Assembly/Step4.png">|
 
+## Firmware
+Firmware utilizes Arduino using C++, listens for button presses, and changes OLED screen accordingly.
+- Top Button: (Feed) -- makes pet less hungry
+- Middle Button: (Play) -- increases happiness, decreases energy
+- Bottom Button: (Sleep) -- sleeping (+energy)
+
+Check out the simulation in Wokwi.com. [Wokwi Link Here!](https://wokwi.com/projects/467099855244316673)
+
+### Screens
+| **Happy (all >50)** | **Neutral (standard)** |
+| :--: | :--: |
+| <img src="Images/Firmware_Images/happy.png"> | <img src="Images/Firmware_Images/neutral.png">|
+| **Sad (a stat<30)** | **Sleep (on press)** |
+| <img src="Images/Firmware_Images/sad.png"> | <img src="Images/Firmware_Images/sleep.png">|
+
+### Utilization
+1. Arduino IDE > Settings and add into Additional Boards Manager URLS `https://espressif.github.io/arduino-esp32/package_esp32_index.json` - Click OK.
+2. Tools > Board > Board Manager -- search `esp32 by Espressif Systems` and install (version should be 3+).
+3. Create a fresh workspace
+4. Tools > Board > esp32 > XIAO ESP32C3
+5. Add the following libraries from Sketch > Include Library > Manage Libraries
+- Adafruit SSD1306
+- Adafruit GFX Library
+6. Link project to machine through the USB-C cord. 
+7. Copy the content in `bear.ino` to your sketch.
+8. Click verify --> Upload to build
+
 ## Credits:
 - This follows the tutorial by [TaniWankenobi](https://github.com/TaniWanKenobi)
 - Case tutorial (for reference) by [Pcb Cupid](https://www.youtube.com/watch?v=7FC-pByCCXM) on YouTube
-- README Formating & File Organization Inspiration: [DjukicAleksej](https://github.com/DjukicAleksej)
+- README Structure, Formating & File Organization Inspiration: [DjukicAleksej](https://github.com/DjukicAleksej)
 
 
  
