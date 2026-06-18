@@ -74,6 +74,13 @@ Switches: [BZCN TSC016A04518A](https://www.lcsc.com/product-detail/C2888493.html
 | Hex Nut Grade A&B | M3x0.5  Stainless Steel  | 2 | $0.14 | [Purchase Link](https://belmetric.com/hex-nut-a2-stainless-din-934/?gad_source=1&gad_campaignid=21832963163&gbraid=0AAAAADn8Oc-E5kanGq3jWoaFNa1ESFVPE&gclid=Cj0KCQjwi8nRBhDhARIsAHZf_pacy6ZhzrGPmuq_yMzfeMh5XljB88UODfhdwc5PXWL3VzwXYlfHfLoaAkIGEALw_wcB&sku=NR3SS) |
 | Total | | 4 | $1.88 | |
 
+## Assembly
+| **Bottom case** | **Place PCB on top** |
+| :--: | :--: |
+| <img src="Images/Assembly/Step1.png"> | <img src="Images/Assembly/Step2.png">|
+| **Place top cover aligned with the holes** | **Put in the M3 Screws & fasten with hex nuts** |
+| <img src="Images/Assembly/Step3.png"> | <img src="Images/Assembly/Step4.png">|
+
 ## Credits:
 - This follows the tutorial by [TaniWankenobi](https://github.com/TaniWanKenobi)
 - Case tutorial (for reference) by [Pcb Cupid](https://www.youtube.com/watch?v=7FC-pByCCXM) on YouTube
