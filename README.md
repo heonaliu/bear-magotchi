@@ -15,7 +15,7 @@ I built this project because I have absolute 0 experience with hardware and want
 It took many trial and errors like learning how to solve DRC errors, rerouting, and being very confused at some points.
 
 
-######## ZINE HERE
+<img src="ZinePNG.png">
 </div>
 
 ## Overview
@@ -110,7 +110,7 @@ Check out the simulation in Wokwi.com. [Wokwi Link Here!](https://wokwi.com/proj
 
 ## Credits:
 - This follows the tutorial by [TaniWankenobi](https://github.com/TaniWanKenobi)
-- Case tutorial (for reference) by [Pcb Cupid](https://www.youtube.com/watch?v=7FC-pByCCXM) on YouTube
+- [Case tutorial](https://www.youtube.com/watch?v=7FC-pByCCXM) (for reference) by Pcb Cupid on YouTube
 - README Structure, Formating & File Organization Inspiration: [DjukicAleksej](https://github.com/DjukicAleksej)
 
 
