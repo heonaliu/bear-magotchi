@@ -74,7 +74,7 @@ Switches: [BZCN TSC016A04518A](https://www.lcsc.com/product-detail/C2888493.html
 | Hex Nut Grade A&B | M3x0.5  Stainless Steel  | 2 | $0.14 | [Purchase Link](https://belmetric.com/hex-nut-a2-stainless-din-934/?gad_source=1&gad_campaignid=21832963163&gbraid=0AAAAADn8Oc-E5kanGq3jWoaFNa1ESFVPE&gclid=Cj0KCQjwi8nRBhDhARIsAHZf_pacy6ZhzrGPmuq_yMzfeMh5XljB88UODfhdwc5PXWL3VzwXYlfHfLoaAkIGEALw_wcB&sku=NR3SS) |
 | Total | | 4 | $1.88 | |
 
-## Assembly
+## Step by Step Assembly
 | **Bottom case** | **Place PCB on top** |
 | :--: | :--: |
 | <img src="Images/Assembly/Step1.png"> | <img src="Images/Assembly/Step2.png">|
@@ -113,6 +113,8 @@ Check out the simulation in Wokwi.com. [Wokwi Link Here!](https://wokwi.com/proj
 - [Case tutorial](https://www.youtube.com/watch?v=7FC-pByCCXM) (for reference) by Pcb Cupid on YouTube
 - README Structure, Formating & File Organization Inspiration: [DjukicAleksej](https://github.com/DjukicAleksej)
 
+---
+built with <3 by Heona Liu 2026
 
  
 
