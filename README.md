@@ -113,6 +113,13 @@ Check out the simulation in Wokwi.com. [Wokwi Link Here!](https://wokwi.com/proj
 - [Case tutorial](https://www.youtube.com/watch?v=7FC-pByCCXM) (for reference) by Pcb Cupid on YouTube
 - README Structure, Formating & File Organization Inspiration: [DjukicAleksej](https://github.com/DjukicAleksej)
 
+## Software Used
+- Arduino IDE
+- KiCad
+- OnShape
+- Visual Studio Code
+- Procreate
+- Wokwi
 ---
 built with <3 by Heona Liu 2026
 
