@@ -18,8 +18,8 @@ It took many trial and errors like learning how to solve DRC errors, rerouting, 
 <img src="ZinePNG.png">
 </div>
 
-## Overview
-Bearmagotchi was built with Seeed Studio XIAO ESP32-C3 and a custom PCB built with KiCad. OnShape was used to build the case design. Arduino IDE was used to code the button's functions with the OLED screen.
+## Overview of how it works
+Bearmagotchi was built with Seeed Studio XIAO ESP32-C3 and a custom PCB built with KiCad. OnShape was used to build the case design. Arduino IDE was used to code the button's functions with the OLED screen. There are three switches that you can press, which change the status of the pet's happiness, energy, and hungriness! 
 
 ### Key Parts Used:
 - **Arduino MCU:** XIAO-ESP32-C3
@@ -96,7 +96,7 @@ Check out the simulation in Wokwi.com. [Wokwi Link Here!](https://wokwi.com/proj
 | **Sad (a stat<30)** | **Sleep (on press)** |
 | <img src="Images/Firmware_Images/sad.png"> | <img src="Images/Firmware_Images/sleep.png">|
 
-### Utilization
+### How to use it
 1. Arduino IDE > Settings and add into Additional Boards Manager URLS `https://espressif.github.io/arduino-esp32/package_esp32_index.json` - Click OK.
 2. Tools > Board > Board Manager -- search `esp32 by Espressif Systems` and install (version should be 3+).
 3. Create a fresh workspace
